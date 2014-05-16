@@ -1,0 +1,3 @@
+Project that takes in a source .java file, a directory of StackOverflowData, and an output directory.
+Tokenizes the source file then usese Hadoop to go through the StackOverflow data and sort posts by relevance to
+the source file.
